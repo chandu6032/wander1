@@ -1,0 +1,238 @@
+.background_container{
+    background-image: url("https://wallpapercave.com/wp/wp12771584.jpg");
+    background-size:cover;
+    height:105vh;
+    width:auto;
+}
+
+.main-card{
+    text-align:center;
+    padding: 20px;
+    border-top-left-radius: 75px;
+    border-top-right-radius: 75px;
+    background-color:#F3EDE6;
+    color: white;
+    background-size: cover;
+    height:40vh;
+    background-image: url("https://wallpapercave.com/wp/wp2173984.jpg");
+  
+}
+.heading{
+    color:#0F172A;
+    font-family:"Playfair Display";
+    font-weight: 1000px;
+    font-style: bold;
+   
+}
+
+.para1{
+    color:black;
+    font-family: "inter";
+    font-weight:100px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.button {
+    /* Core Styling */
+    background-color: grey; /* A strong, dark background */
+    color:black;
+    font-family: "Inter";
+    font-size: 11px;
+    font-weight: 700; /* Semi-bold for better emphasis */
+    text-transform: uppercase; /* Common style for call-to-action buttons */
+    letter-spacing: 1px; /* Adds space between letters for a refined look */
+    background-image: url("https://images.pexels.com/photos/911738/pexels-photo-911738.jpeg?_gl=1*7hicbz*_ga*NDkyNDE2OTQwLjE3NTQ4NTA5OTU.*_ga_8JE65Q40S6*czE3NTQ5MTU4MTEkbzMkZzEkdDE3NTQ5MTU4MTckajU0JGwwJGgw");
+    
+    
+    /* Sizing and Shape */
+    border: 0px;
+    border-radius: 50px; /* A "pill" shape is very modern */
+    padding: 16px 32px; /* Generous padding makes it feel important */
+    cursor: pointer;
+    
+    /* Depth and Polish */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); /* A subtle shadow to lift it off the page */
+    transition: all 0.3s ease-in-out; /* Smooths out all changes */
+}
+
+/* Hover State: When the user's mouse is over the button */
+.button:hover {
+    background-color: #1f2937; /* A slightly lighter shade on hover */
+    box-shadow: 0 7px 20px rgba(0, 0, 0, 0.2); /* Enhance the shadow to make it "pop" */
+    transform: translateY(-3px); /* Lifts the button slightly */
+}
+
+/* Active State: When the user is clicking the button */
+.button:active {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15); /* Flattens the shadow */
+    transform: translateY(0); /* Brings the button back down to look "pressed" */
+}
+
+    /* second page css goes here*/
+
+    .fav-place{
+        font-family: "Archivo Black";
+        padding: 10px;
+        font-weight: 800px;
+        font-style: normal;
+    .fav-place-color{
+        color: #E1F5FE;
+        text-align: center;
+    }
+    
+    
+    }
+    .background-image-container{
+        background-image: url("https://wallpapercave.com/wp/wp12771584.jpg");
+        background-size: cover;
+        height:auto;
+        width: auto;
+    }
+    .fav-place-card{
+        background-color: white;
+        border-radius: 15px;
+        padding: 25px;
+        background-color:#C0C0C0;
+        margin:10px;
+        background-image: url("https://wallpapercave.com/wp/wp12826606.jpg");
+    }
+    .taj-mahal-heading{
+        font-family:"Libertinus Sans";
+        font-weight: bold;
+        color:#FFF8F0;
+    }
+    .taj-mahal-picture{
+        height:200px;
+        width:200px;
+        padding: 20px;
+        border-radius:50px;
+    }
+    .para{
+        padding:10px;
+        font-family: "Playwrite AU NSW", cursive;
+        font-style: italic;
+        font-weight: bolder;
+        color: #D4C4A8 ;
+    }
+    .centerr{
+        align-content: center;
+        margin:20px ;
+        text-align: center;
+    }
+
+/* third page css code goes here*/
+
+
+
+.bg-picture{
+    background-image: url("https://wallpapercave.com/wp/wp12771584.jpg");
+    height:auto;
+    background-size: cover;
+    width: auto;
+    text-align: center;
+    padding:70px;
+    margin:auto;
+    border-radius:0px;
+    background-color: black;
+    
+    
+}
+.detail-view-section-heading{
+    color:white;
+    font-family: "Asimovian";
+    font-weight: 800;
+    font-style: normal;
+    font-size:30px;  
+    border-radius: 50px;
+    
+    
+    
+}
+
+
+.caroresl-size{
+    height: auto;
+    padding:auto;
+    margin: 80px;   
+    
+}
+
+   
+    
+
+.paragraph-section{
+
+    color:white;
+    font-family: "DM Serif Text";
+    font-weight: bold;
+    font-style: italic;    
+    text-align: center;
+    padding:40px;
+    width:auto;
+    
+}
+.para-heading{
+    color:white;
+    font-family: "DM Serif Text";
+    font-weight:900;
+    font-style: italic;    
+    padding:40px;
+    width:auto;
+    padding:35px;
+}
+.over-back{
+    
+   background-color: grey;
+}
+.click-here{
+
+    font-family: "Playwrite AU NSW";
+    font-style: italic;
+    font-weight: bolder;
+    color: #D4C4A8 ;
+    text-align: center;
+    padding:20px;
+}
+.fav-button {
+    font-size: normal;
+       
+      }
+
+.click-head{
+color:lightgray;
+    }
+
+
+
+
+
+    .rave{
+        color:#FFD700;
+        font-family: "Gravitas One" ;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 60px;
+        text-decoration: underline;
+       
+    
+    }
+    .first-card{
+        background-image: url("https://wallpapercave.com/wp/wp4112117.jpg");
+        background-size:cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height:auto;
+        width:auto;
+        text-align: center;
+        border-radius: 20px;
+        margin: 30px;
+        padding: 25px;}
+
+        .first-card-text{
+            font-family: "Dancing Script";
+            color:white;
+            font-style:italic;
+            font-weight:bolder;
+            font-size: 20px;}
+     
+  
